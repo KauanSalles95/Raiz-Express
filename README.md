@@ -1,10 +1,5 @@
 # 🌱 Raiz Express
 
-![Status](https://img.shields.io/badge/status-em%20planejamento-yellow)
-![Metodologia](https://img.shields.io/badge/metodologia-espiral-2E6B4B)
-![Licença](https://img.shields.io/badge/licença-MIT-blue)
-
-## 📖 Sobre o Projeto
 
 **Raiz Express** é um aplicativo de delivery inspirado no iFood, mas voltado para **produtos da agricultura familiar e de pequenos produtores locais**: hortifrúti, ovos, queijos, mel e pães artesanais.
 
@@ -113,20 +108,6 @@ docs/*      → documentação
 - [Caso de Uso](Diagramas/Caso%20de%20Uso.md)
 - [Raiz Express no Figma](https://www.figma.com/design/kMyWXu8UDGKctp73x8O0U8)
 
-### Projeto de Interface
-
-| Login | Início | Produto |
-|:---:|:---:|:---:|
-| ![Login](Telas/1-login.png) | ![Início](Telas/2-inicio.png) | ![Produto](Telas/3-produto.png) |
-
-| Carrinho | Acompanhar pedido |
-|:---:|:---:|
-| ![Carrinho](Telas/4-carrinho.png) | ![Acompanhar pedido](Telas/5-acompanhar.png) |
-
-**Painel do produtor (web)**
-
-![Painel do produtor](Telas/6-painel-produtor.png)
-
 ---
 
 ## 🎯 Próximos Passos do Desenvolvimento
@@ -141,4 +122,4 @@ docs/*      → documentação
 
 ---
 
-Desenvolvido com ☕ por ***Seu Nome***
+Desenvolvido com ☕ por ***Kauan Salles Alves***
