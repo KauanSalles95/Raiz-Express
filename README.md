@@ -1,11 +1,12 @@
 # 🌱 Raiz Express
 
+> **Do produtor para a sua mesa.**
+
 
 **Raiz Express** é um aplicativo de delivery inspirado no iFood, mas voltado para **produtos da agricultura familiar e de pequenos produtores locais**: hortifrúti, ovos, queijos, mel e pães artesanais.
 
 O objetivo é encurtar o caminho entre quem planta e quem come. O consumidor sabe exatamente de onde vem cada alimento, e o produtor vende direto, sem atravessador e com um painel simples para controlar pedidos e estoque.
 
-> **Do produtor para a sua mesa.**
 
 ---
 
