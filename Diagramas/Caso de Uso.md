@@ -29,11 +29,3 @@ flowchart LR
     A --- UC13
 ```
 
-## Descrição resumida
-
-| Ator | Casos de uso |
-|---|---|
-| Consumidor | Buscar, montar carrinho, pagar, acompanhar, avaliar e assinar cestas |
-| Produtor | Cadastrar produtos, controlar estoque, gerenciar pedidos e ver relatórios |
-| Entregador | Aceitar entregas e confirmar a entrega com foto |
-| Administrador | Aprovar produtores cadastrados |
