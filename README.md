@@ -74,7 +74,7 @@ O Cascata supõe que sabemos tudo antes de começar, o que não é verdade num m
 ## 🏁 Diagramas e Telas
 
 - [Caso de Uso](Diagramas/Caso%20de%20Uso.md)
-- [Raiz Express no Figma](https://www.figma.com/design/kMyWXu8UDGKctp73x8O0U8)
+- [Raiz Express Figma](https://www.figma.com/design/kMyWXu8UDGKctp73x8O0U8)
 
 ---
 
